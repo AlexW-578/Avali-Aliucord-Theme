@@ -2,12 +2,12 @@
     "manifest": {
         "name": "Avali",
         "author": "AlexW-578",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/AlexW-578\/Avali-Aliucord-Theme\/main\/Theme\/avali.json",
         "license": "GPLv3"
     },
     "background": {
-        "overlay_alpha": 0,
+        "overlay_alpha": 1,
         "url": "https:\/\/raw.githubusercontent.com\/AlexW-578\/Avali-Aliucord-Theme\/main\/bg\/Avali.png",
         "blur_radius": 0
     },

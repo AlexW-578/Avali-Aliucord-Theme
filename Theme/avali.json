@@ -3,12 +3,12 @@
         "name": "Avali",
         "author": "AlexW-578",
         "version": "0.0.1",
-        "updater": "",
-        "license": "MIT"
+        "updater": "https:\/\/raw.githubusercontent.com\/AlexW-578\/Avali-Aliucord-Theme\/main\/Theme\/avali.json",
+        "license": "GPLv3"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/backgrounds\/norde-bg.png",
+        "url": "https:\/\/raw.githubusercontent.com\/AlexW-578\/Avali-Aliucord-Theme\/main\/bg\/Avali.png",
         "blur_radius": 0
     },
     "fonts": {
